@@ -1,0 +1,20 @@
+{
+  "ads": [
+    {
+      "name": "Supermercado Econômico",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/supermercado.jpg"
+    },
+    {
+      "name": "Loja do Celular",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/celular.jpg"
+    },
+    {
+      "name": "Auto Peças Brasil",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/autopecas.jpg"
+    },
+    {
+      "name": "Farmácia Popular",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/farmacia.jpg"
+    }
+  ]
+}
