@@ -1,19 +1,7 @@
 {
   "ads": [
     {
-      "name": "Supermercado Econômico",
-      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
-    },
-    {
-      "name": "Loja do Celular",
-      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
-    },
-    {
-      "name": "Auto Peças Brasil",
-      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
-    },
-    {
-      "name": "Farmácia Popular",
+      "name": "CAPAYOUTUBE",
       "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
     }
   ]
