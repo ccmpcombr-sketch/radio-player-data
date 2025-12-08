@@ -3,19 +3,19 @@
   "ads": [
     {
       "name": "teste00",
-      "image": ""https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
     },
     {
       "name": "teste01",
-      "image": ""https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
     },
     {
       "name": "teste02",
-      "image": ""https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
     },
     {
       "name": "teste03",
-      "image": ""https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncio.png"
     }
   ]
 }
