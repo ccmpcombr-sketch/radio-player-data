@@ -1,23 +1,23 @@
 {
   "ads": [
     {
-      "name": "01",
+      "name": "Ptr:01",
       "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
     },
     {
-      "name": "02",
+      "name": "Ptr:02",
       "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
     },
     {
-      "name": "03",
+      "name": "Ptr:03",
       "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
     },
     {
-      "name": "04",
+      "name": "Ptr:04",
       "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
     },
     {
-      "name": "05",
+      "name": "Ptr:05",
       "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/anuncios/CAPAYOUTUBE.jpg"
     }
   ]
