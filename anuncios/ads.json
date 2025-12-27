@@ -8,11 +8,15 @@
     },
     {
       "name": "Bandeira Do Brasil",
-      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Bandeira.jpeg", 
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Bandeira.jpeg",
+      "button_text": "",
+      "button_link": ""
     },
     {
       "name": "Estamos No AR",
       "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/No%20AR.jpeg",
+      "button_text": "",
+      "button_link": ""
     },
     {
       "name": "Se Você Viu Seu Cliente Vai Ver",
