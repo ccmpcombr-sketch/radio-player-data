@@ -1,8 +1,52 @@
 {
   "ads": [
-   {
-  "name": "Bandeira Do Brasil",
-  "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Bandeira.jpeg",
-  "buttonText": "Whatsapp",
-  "buttonLink": "https://wa.me/+5569993034364"
+    {
+      "name": "Anuncie Aqui",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Anuncie%20Aqui.jpeg",
+      "button_text": "Whatsapp",
+      "button_link": "https://wa.me/+5569993034364"
+    },
+    {
+      "name": "Bandeira Do Brasil",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Bandeira.jpeg",
+      "button_text": "Saiba mais",
+      "button_link": ""
+    },
+    {
+      "name": "Estamos No AR",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/No%20AR.jpeg",
+      "button_text": "Saiba mais",
+      "button_link": ""
+    },
+    {
+      "name": "Se Você Viu Seu Cliente Vai Ver",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Se%20Voc%C3%AA%20Viu%20Seu%20Cliente%20Ver%C3%A1.jpeg",
+      "button_text": "Whatsapp",
+      "button_link": "https://wa.me/+5569993034364"
+    },
+    {
+      "name": "Sua Propaganda Aqui",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpeg",
+      "button_text": "Whatsapp",
+      "button_link": "https://wa.me/+5569993034364"
+    },
+    {
+      "name": "Inscreva-se Em Nosso Canal",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Youtube.jpeg",
+      "button_text": "Youtube",
+      "button_link": "https://www.youtube.com/@TVCCMPOFICIAL"
+    },
+    {
+      "name": "Siga-nos No Instagran",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Instagran.jpeg",
+      "button_text": "Instagram",
+      "button_link": "https://www.instagram.com/tvccmp/"
+    },
+    {
+      "name": "Adicione-nos No Facebook",
+      "image": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Facebook.jpeg",
+      "button_text": "Facebook",
+      "button_link": "https://www.facebook.com/AdrianoBarrosOficial"
+    }
+  ]
 }
